@@ -10,7 +10,7 @@
 
 <br/>
 
-<a href="mailto:binitpatra1720@gmail.com">
+<a href="https://mail.google.com/mail/?view=cm&to=binitpatra1720@gmail.com">
   <img src="https://img.shields.io/badge/Email-binitpatra1720%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
@@ -164,7 +164,7 @@ public class BinitPatra {
 
 <div align="center">
 
-<a href="mailto:binitpatra1720@gmail.com">
+<a href="https://mail.google.com/mail/?view=cm&to=binitpatra1720@gmail.com">
   <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
 
